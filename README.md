@@ -1,2 +1,2 @@
-# Meu primeiro repositório padawan
-Formação do curso de java
+# Meu primeiro repositório GitHub - Padawan
+## Formação do curso de Java
